@@ -13,7 +13,8 @@ patternAを実行すると
 	-テストデータ 
 		-epoch1
 			-test_score　	予測精度
-			-test_predict　	予測結果									 							-epoch2 
+			-test_predict　	予測結果									 				
+		-epoch2 
 			-epoch1と同じ構造
 			
 		
@@ -28,7 +29,8 @@ patternAを実行すると
 	-全助詞データ
 		-epoch1
 			-test_score　	予測精度
-			-test_predict　	予測結果									 							-epoch2 
+			-test_predict　	予測結果									 				
+		-epoch2 
 			-epoch1と同じ構造
 			
 		
